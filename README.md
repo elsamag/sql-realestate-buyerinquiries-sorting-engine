@@ -136,7 +136,6 @@ psql -h localhost \
      -f src/buyer_inquiries_extraction.sql
 ```
 
-## 7. Professional Call-to-Action
 ## & Retainer Inquiries
 
 Need assistance optimizing enterprise data pipelines or setting up automated lead sorting queues?
