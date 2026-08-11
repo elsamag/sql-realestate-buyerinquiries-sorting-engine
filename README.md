@@ -135,10 +135,9 @@ psql -h localhost \
      -d realestate_db \
      -f src/buyer_inquiries_extraction.sql
 ```
+___
 
-## & Retainer Inquiries
-
-Need assistance optimizing enterprise data pipelines or setting up automated lead sorting queues?
+## Need assistance optimizing enterprise data pipelines or setting up automated lead sorting queues?
 
 * **Lead Consultant:** Samuel Chinwendu Agu
 * **Enterprise Practice:** Elsamag IT Solutions
