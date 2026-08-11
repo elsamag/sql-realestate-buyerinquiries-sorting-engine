@@ -117,3 +117,38 @@ High-priority SLA queue active.
 └── benchmarks/
     └── execution_log_summary.txt  
 ```      
+
+## Step-by-Step Deployment & Execution Guide
+
+### Step 1: Clone Repository from Elsamag Workspace
+```bash
+git clone https://github.com/Elsamag/sql-realestate-buyerinquiries-sorting-engine.git
+```
+### Step 2:Enter Project Directory
+```bash
+cd sql-realestate-buyerinquiries-sorting-engine
+```
+### Step 3: Execute Production Query
+```bash
+psql -h localhost \
+     -U analytics_user \
+     -d realestate_db \
+     -f src/buyer_inquiries_extraction.sql
+```
+
+## 7. Professional Call-to-Action
+## & Retainer Inquiries
+
+Need assistance optimizing enterprise data pipelines or setting up automated lead sorting queues?
+
+* **Lead Consultant:** Samuel Chinwendu Agu
+* **Enterprise Practice:** Elsamag IT Solutions
+* **GitHub Profile:** [@Elsamag](https://github.com/Elsamag)
+
+---
+
+### ⭐ Support & Feedback
+
+If this project helped you optimize your infrastructure or solve a technical bottleneck, please give it a **Star (⭐)** on GitHub!
+
+Follow **[Samuel Chinwendu Agu (@Elsamag)](https://github.com/Elsamag)** for upcoming open-source enterprise analytics and data tools.
