@@ -137,16 +137,22 @@ psql -h localhost \
 ```
 ___
 
-## Need assistance optimizing enterprise data pipelines or setting up automated lead sorting queues?
+## 💼 Enterprise Consultation & Retainer Inquiries
 
-* **Lead Consultant:** Samuel Chinwendu Agu
-* **Enterprise Practice:** Elsamag IT Solutions
-* **GitHub Profile:** [@Elsamag](https://github.com/Elsamag)
+> **Need Custom Database Optimization & Analytics Infrastructure?**
+
+**Elsamag IT Solutions** provides enterprise database optimization, automated reporting pipeline design, and high-performance SQL query tuning.
+
+* **Lead Technical Consultant:** Samuel Chinwendu Agu  
+* **GitHub Profile:** [github.com/Elsamag](https://github.com/Elsamag)  
+* **Direct Engagement:** Reach out via GitHub or Upwork for retainer inquiries, custom architecture audits, and database optimization contracts.
 
 ---
 
 ### ⭐ Support & Feedback
 
-If this project helped you optimize your infrastructure or solve a technical bottleneck, please give it a **Star (⭐)** on GitHub!
+If this project or repository helped you optimize your infrastructure or solve a technical bottleneck, please give it a **Star (⭐)** on GitHub!
 
-Follow **[Samuel Chinwendu Agu (@Elsamag)](https://github.com/Elsamag)** for upcoming open-source enterprise analytics and data tools.
+Follow **[Samuel Chinwendu Agu (@Elsamag)](https://github.com/Elsamag)** for upcoming open-source enterprise analytics, cybersecurity, and data engineering tools.
+
+For enterprise consulting, infrastructure auditing, or retainer inquiries, connect directly via **[GitHub Profile](https://github.com/Elsamag)** or **Elsamag IT Solutions**.
