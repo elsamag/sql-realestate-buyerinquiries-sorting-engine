@@ -101,8 +101,9 @@ Query Executed in 1.2ms
 [SUCCESS] Sorted 4 records (1.2ms).
 High-priority SLA queue active.
 ```
+
+## Repository Structure & Directory Layout
 ```text
-sql-realestate-buyerinquiries-sorting-engine/
 ├── README.md                           
 ├── LICENSE                             
 ├── src/
